@@ -9,7 +9,7 @@ const LandingPage = () => {
     return (
         <div className="max-w-md mx-auto p-4 sm:p-6 md:p-8">
             <br />
-            <h2 className="text-2xl font-bold mb-4 text-center">History Of Estartit</h2>
+            <h2 className="text-2xl font-bold mb-4 text-center">Heritage Of Estartit</h2>
             <br />
             <div className="mb-4">
                 <a href={videoUrl} target="_blank" rel="noopener noreferrer" className="block relative">
