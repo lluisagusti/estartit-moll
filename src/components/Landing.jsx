@@ -31,7 +31,7 @@ const LandingPage = () => {
                 And despite everything, the salinity of the Estartit reaches us from the heights, awakening our desire for crystal clear waters and fine sand.
             </p>
             <br />
-            <p>Enjoy your stay!</p>
+            <p>Enjoy your stay! 🏖️😄</p>
         </div>
     );
 };
